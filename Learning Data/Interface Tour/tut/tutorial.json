@@ -1,0 +1,74 @@
+{
+    "author":"Maxon",
+    "complete_description":"You're now ready to dive deeper into Cinema 4D.",
+    "complete_media":"intro.mp4",
+    "duration_minutes":5,
+    "steps":[
+        {
+            "command_id_shortcut":"",
+            "description":"<b>The Objects Manager</b>\n\nThe Objects Manager is the central nervous system of your project. It lists all objects and tags in your scene with hierarchical organization.\n\n<b>Click on some objects</b> to select them. They will be highlighted both in the Objects Manager and the Viewport.",
+            "media":"om.mp4",
+            "ui_command_bubble":"",
+            "ui_event":"OBJECT_MANAGER",
+            "ui_manager_highlight":"object manager",
+            "window_placement":"CENTER"
+        },
+        {
+            "command_id_shortcut":"",
+            "description":"<b>The Attributes Manager</b>\n\nThe Attributes Manager displays settings for selected objects, tools, and more. This is where you can adjust properties like size, color, or texture.\n\n<b>Select an object in the Objects Manager</b> to explore and change its attributes here.",
+            "media":"am.mp4",
+            "ui_command_bubble":"",
+            "ui_event":"ATTRIBUTE_MANAGER",
+            "ui_manager_highlight":"attribute manager",
+            "window_placement":"BOTTOM_CENTER"
+        },
+        {
+            "command_id_shortcut":"",
+            "description":"<b>The Create Palette</b>\n\nThe Create Palette allows you to add objects like primitives, text, deformers, cameras, and lights to your scene.\n\n<i>Hint:</i> <b>Long-press a button</b> to expand an icon palette for more options.",
+            "media":"createpalette.mp4",
+            "ui_command_bubble":"",
+            "ui_event":"",
+            "ui_manager_highlight":"",
+            "window_placement":"BOTTOM_CENTER"
+        },
+        {
+            "command_id_shortcut":"",
+            "description":"<b>The Tools Palette</b>\n\nThe Tools Palette offers a variety of tools to manipulate your objects. <b>Click a tool</b> to use it, and its attributes will appear in the Attributes Manager.",
+            "media":"tools.mp4",
+            "ui_command_bubble":"",
+            "ui_event":"",
+            "ui_manager_highlight":"",
+            "window_placement":"CENTER"
+        },
+        {
+            "command_id_shortcut":"new",
+            "description":"<b>Project Tabs</b>\n\nCinema 4D allows you to open multiple project files, represented as tabs at the top. <b>Switch between projects</b> by clicking their respective tabs, or <b>click the +</b> to create a new project.",
+            "media":"tabs.mp4",
+            "ui_command_bubble":"",
+            "ui_event":"",
+            "ui_manager_highlight":"",
+            "window_placement":"CENTER"
+        },
+        {
+            "command_id_shortcut":"Shift+F2",
+            "description":"<b>The Material Manager</b>\n\nThe Material Manager lists all materials in your scene. <b>Click the Material Manager icon</b> to open and close it. Use this to create or modify materials for your objects.",
+            "media":"mm.mp4",
+            "ui_command_bubble":"12159",
+            "ui_event":"",
+            "ui_manager_highlight":"",
+            "window_placement":"CENTER"
+        },
+        {
+            "command_id_shortcut":"12412",
+            "description":"<b>The Timeline Scroll Bar</b>\n\nThe Timeline Scroll Bar allows you to scrub through time in your scene. You can also view and adjust keyframes.\n\n<b>Press Play</b> to watch the scene animate or drag the scroll bar to move through time.",
+            "media":"scrollbar.mp4",
+            "ui_command_bubble":"",
+            "ui_event":"",
+            "ui_manager_highlight":"1018483",
+            "window_placement":"CENTER"
+        }
+    ],
+    "tutorial_title":"Interface Tour",
+    "welcome_description":"This is a quick breakdown of important parts of the <b>Cinema 4D interface.</b>",
+    "welcome_media":"intro.mp4"
+}
